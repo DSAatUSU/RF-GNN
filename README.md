@@ -1,4 +1,4 @@
-![RF-GNN Method] ()
+![RF-GNN Method](https://github.com/DSAatUSU/RF-GNN/blob/main/RF-GNN.png?raw=True)
 
 
 ### Code Setup and Requirements
