@@ -1,5 +1,5 @@
 ![RF-GNN Method](https://github.com/DSAatUSU/RF-GNN/blob/main/RF-GNN.png?raw=True)
-
+[Link to the paper](https://ieeexplore.ieee.org/abstract/document/10825972)
 
 ### Code Setup and Requirements
 You can install all the required packages using the following command:
