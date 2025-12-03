@@ -27,7 +27,7 @@ To train GCN on a dataset, use the following command. This will save the results
 ### Citation
 
 Please cite the following paper:
-
+```
 @inproceedings{farokhi2024advancing,
   title={Advancing Tabular Data Classification with Graph Neural Networks: A Random Forest Proximity Method},
   author={Farokhi, Soheila and Chen, Haozhe and Moon, Kevin and Karimi, Hamid},
@@ -36,3 +36,4 @@ Please cite the following paper:
   year={2024},
   organization={IEEE}
 }
+```
