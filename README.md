@@ -9,7 +9,7 @@ You can install all the required packages using the following command:
 
 ### Train Random Forest
 
-To train Random Forest Classifier and get Random Forest proximity, use the following command. This will save the proximity matrix for the graph in `proximities/` directory and the Random Forest model in `models/rf/` directory.
+To train a Random Forest Classifier and get Random Forest proximity, use the following command. This will save the proximity matrix for the graph in `proximities/` directory and the Random Forest model in `models/rf/` directory.
 ```
    $ python train_rf.py
 ```
